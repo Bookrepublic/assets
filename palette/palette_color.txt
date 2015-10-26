@@ -1,0 +1,23 @@
+$grey: #262730
+$light-grey: #939397
+
+$green: #0A8342
+$light-green: #85C1A0
+
+$red: #CA4134
+$light-red: #F0A392
+
+$beige: #E5D0B3
+$light-beige: #FAF6F0
+
+$blue: #577995
+$light-blue: #ABBCCA
+
+$azure: #64A1BB
+$light-azure: #B1D0DD
+
+$pink: #F6A38C
+$light-pink: #FAD1C6
+
+$yellow: #E89723
+$light-yellow: #F4CB91
